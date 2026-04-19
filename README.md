@@ -76,14 +76,6 @@ I'm a **Computer Science Engineering** student specializing in **Artificial Inte
 
 ---
 
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/BasuPatil09?theme=light&font=Karma&ext=heatmap" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/patilbasu](https://www.linkedin.com/in/patilbasu/)
