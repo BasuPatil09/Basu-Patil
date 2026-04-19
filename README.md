@@ -32,9 +32,14 @@ I'm a **Computer Science Engineering** student specializing in **Artificial Inte
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**DSA**
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **AI / ML / Data Science**
 
@@ -71,11 +76,10 @@ I'm a **Computer Science Engineering** student specializing in **Artificial Inte
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasuPatil09&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasuPatil09&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/BasuPatil09?theme=light&font=Karma&ext=heatmap" />
 </p>
 
 ---
@@ -84,6 +88,7 @@ I'm a **Computer Science Engineering** student specializing in **Artificial Inte
 
 - 💼 LinkedIn: [linkedin.com/in/patilbasu](https://www.linkedin.com/in/patilbasu/)
 - 💻 GitHub: [github.com/BasuPatil09](https://github.com/BasuPatil09)
+- 🧩 LeetCode: [leetcode.com/u/BasuPatil09](https://leetcode.com/u/BasuPatil09/)
 
 ---
 
